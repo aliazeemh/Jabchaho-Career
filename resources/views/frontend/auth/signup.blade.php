@@ -148,7 +148,7 @@
           <div class="fa fa-cloud-upload t-a-center"></div>
           <h3 class="header">Upload Your Resume</h3> 
           <div class="desc" title="If your desired job is not advertised, please fill fields with updated CV and become part of our active database which we checks regularly as a first step when filling a vacancy.">
-            <div class="header">Become Part Of <span class="logo-color">Ideas</span> High Achievers Team!</div>
+            <div class="header">Become Part Of <span><img class="w-20" src="{{asset('assets/images/jabchaho-logo.svg')}}" style="width:100px;" /></span> High Achievers Team!</div>
           </div>
         </div>
         <span class="dropped_file_name"></span>
@@ -183,7 +183,7 @@
     </div>
     <div class="form-group">        
       <div class="col-sm-12 t-a-center" style="margin-bottom: 5px;">
-        <button type="submit" class="btn btn-primary ideas-brand">Signup</button>   
+        <button type="submit" class="btn btn-primary jabchaho-brand">Signup</button>   
         
       </div>
         <div class="form-group">        

@@ -14,7 +14,7 @@
         <div class="text-danger">{{ $errors->first('id') }}</div>
     @endif
 
-    <p class="text-start"><small>Please tell us, where did you hear about jobs at Ideas</small></p>
+    <p class="text-start"><small>Please tell us, where did you hear about jobs at Jab Chaho</small></p>
 
     <div class="row mb-3 text-left">
         <label for="InstituteName" class="col-sm-3 col-form-label col-form-label-sm">Select a Medium<span style="color: red"> * </span></label>

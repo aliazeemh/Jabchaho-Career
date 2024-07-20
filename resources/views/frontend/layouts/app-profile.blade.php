@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link type="image/x-icon" href="{{asset('assets/images/job-page-logo.png')}}" rel="icon">
+    <link type="image/x-icon" href="{{asset('assets/images/favicons/favicon-lg.png')}}" rel="icon">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
@@ -101,7 +101,7 @@ body header.bg-dark.header-blade{
 .carousel-control-prev, .carousel-control-next {
 	height: 44px;
 	width: 40px;
-	background: #7ac400;
+	background: #fce100;
 	opacity: 0.8;
 }
 .carousel-control-prev:hover, .carousel-control-next:hover {
@@ -133,11 +133,11 @@ body header.bg-dark.header-blade{
 }
 
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: #89b61b !important;
+    background-color: #fce100 !important;
 }
 
 .form-check-input {
-    background-color: #89b61b !important;
+    background-color: #fce100 !important;
 }
 
 .fa-remove{

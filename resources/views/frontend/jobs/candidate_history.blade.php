@@ -34,7 +34,7 @@ h1{
                         @foreach ($candidateJobAppliedData as $key => $candidateJobApplied)
                             <div class="card mb-3" id="job-{{Arr::get($candidateJobApplied->job, 'id')}}">
                                 <div class="card-block" jobId="{{Arr::get($candidateJobApplied->job, 'id')}}">
-                                    <h1 class="card-text good-review-score float-start"><img src="{{asset('assets/images/job-page-logo.png')}}"></h1>
+                                    <h1 class="card-text good-review-score float-start"><img src="{{asset('assets/images/favicons/favicon-lg.png')}}"></h1>
                                     <h4 class="card-title"><a a href="#_" onclick="getDetail({{Arr::get($candidateJobApplied->job, 'id')}});" >{{ Arr::get($candidateJobApplied->job, 'title')}}</a></h4>
                                     <p class="card-text">{{ config('constants.cities.'.Arr::get($candidateJobApplied->job, 'city_id') )}}</p>
                                     <p class="card-text">Applied Date: {{ date('M d, Y',strtotime(Arr::get($candidateJobApplied, 'created_at'))) }}</p>

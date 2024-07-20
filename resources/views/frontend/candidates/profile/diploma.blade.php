@@ -4,7 +4,7 @@
 
 <div class="card-title"><img src="{{asset('assets/images/banners/diploma.jpg')}}" ></div>
 @if(!empty($diplomaAllData))
-        <div id="myCarousel" class="carousel slide profile ideas" data-ride="carousel" data-interval="0">
+        <div id="myCarousel" class="carousel slide profile jabchaho ideas" data-ride="carousel" data-interval="0">
            <!-- Wrapper for carousel items -->
 			<div class="carousel-inner">
                 <div class="item carousel-item active">

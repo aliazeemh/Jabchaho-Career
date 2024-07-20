@@ -1,5 +1,5 @@
 <div class="job-login-search">
-    <h2 style="color:#8cc63f">Ideas Job Openings</h2>
+    <h2 style="color:#8cc63f">Jab Chaho Job Openings</h2>
     <form method="GET" action="{{ route('jobs.list') }}">
         <div class="row">   
             

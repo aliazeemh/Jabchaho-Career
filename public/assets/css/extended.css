@@ -135,9 +135,9 @@ body>main.container>div.container-auth>div.container .desc {
     text-align: center;
 }
 
-.ideas-brand {
-    background-color: #89b61b !important;
-    border-color: #89b61b !important;
+.jabchaho-brand {
+    background-color: #fce100 !important;
+    border-color: #fce100 !important;
     font-size: 18px;
     padding: 5px 20px;
     font-weight: 600;
@@ -172,7 +172,7 @@ body>main.container>div.container-auth>div.container .desc {
 .card.sidenav .active .dropdown-item.active a,
 .card.sidenav .active a {
     color: #FFF;
-    background-color: #89b61b !important;
+    background-color: #fce100 !important;
 }
 
 a.pull-right {
@@ -189,12 +189,12 @@ a.pull-right {
 body a:hover:not(.profile-image-remove) {
     color: #FFF !important;
     text-decoration: none;
-    background-color: #89b61b !important;
+    background-color: #fce100 !important;
 }
 
 .mydivouter:hover a.mybuttonoverlap+a {
     color: #FFF !important;
-    background-color: #89b61b !important;
+    background-color: #fce100 !important;
 }
 
 .mydivouter .mybuttonoverlap:hover {
@@ -243,7 +243,7 @@ body a:hover:not(.profile-image-remove) {
 }
 
 .banner-cover {
-    background-image: url(../images/banners/ideas.jpg);
+    background-image: url(../images/banners/header-1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -348,8 +348,8 @@ body.jobs .job-search h2 {
     font-size: 18px;
 }
 
-.tc-green {
-    color: #7ac400;
+.tc-yelllow {
+    color: #fce100;
 }
 
 .search-icon {
@@ -456,7 +456,7 @@ select.form-control {
     color: #FFF;
     text-decoration: none;
     font-weight: 600;
-    border-color: #89b61b;
+    border-color: #fce100;
 }
 
 .d-elem {
@@ -475,7 +475,7 @@ select.form-control {
 }
 
 .card-block .card-text.btn {
-    border-color: #89b61b;
+    border-color: #fce100;
 }
 
 .f-14px {
@@ -494,10 +494,11 @@ a.job-link:hover {
 
 .future-opportunities a.sign-up {
     padding: 10px 20px;
-    background-color: #7aa117 !important;
-    color: #FFF;
+    background-color: #fce100 !important;
+    color: #000;
     border-radius: 5px;
     font-size: 16px;
+    font-weight: 600;
 }
 
 .future-opportunities {
@@ -505,7 +506,7 @@ a.job-link:hover {
     text-align: center;
 }
 
-.future-opportunities .tc-green {
+.future-opportunities .tc-dark {
     font-size: 30px;
     font-weight: 900;
     line-height: 75px;
@@ -513,8 +514,9 @@ a.job-link:hover {
 }
 
 .future-opportunities a.sign-up:hover {
-    background-color: #89b61b !important;
-    color: #FFF !important;
+    background-color: #d7c004 !important;
+    color: #000 !IMPORTANT;
+    font-weight: 600;
 }
 
 .nav-item.menu>.navbar-toggler {
@@ -620,7 +622,7 @@ input.form-check-input {
 }
 
 .mydivouter .myref {
-    color: #89b61b;
+    color: #fce100;
     text-decoration: underline;
 }
 
@@ -1097,7 +1099,7 @@ input:focus::after {
         margin-top: 122px;
     }
 
-    .future-opportunities .tc-green {
+    .future-opportunities .tc-dark {
         display: block;
         font-size: 18px;
         font-weight: 900;
@@ -1250,7 +1252,7 @@ input:focus::after {
 }
 
 .logo-color {
-    color: #89b61b
+    color: #fce100
 }
 
 body.drop-your-cv label.file-wrapper {

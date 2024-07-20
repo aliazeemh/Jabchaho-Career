@@ -8,7 +8,7 @@
 
     <!--//Search Section-->
 
-<div class="card-wrapper @if(!Auth::guard('candidate')->user()) non-login @endif">
+<div class="card-wrapper @if(!Auth::guard('candidate')->user()) non-login @endif align-items-center justify-content-center mt-5">
 @if(is_object($jobs) && count($jobs)>0)  
 	@foreach ($jobs as $key => $job)
 		<div class="card mb-3" id="job-{{Arr::get($job, 'id')}}">
@@ -20,7 +20,7 @@
 		</div>
 	@endforeach
 	@else
-	 <div>!! No Job Found !!</div>
+	 <div class="my-4">!! No Job Found !!</div>
 @endif  
 </div>
 <div class="d-flex">

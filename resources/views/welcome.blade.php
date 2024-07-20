@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
-        <link type="image/x-icon" href="{{asset('assets/images/job-page-logo.png')}}" rel="icon">
+        <link type="image/x-icon" href="{{asset('assets/images/favicons/favicon-lg.png')}}" rel="icon">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 

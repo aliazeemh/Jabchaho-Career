@@ -42,7 +42,7 @@
       </div>
       <div class="form-group">        
         <div class="col-sm-12 t-a-center">
-          <button type="submit" class="btn btn-primary ideas-brand">Login</button>   
+          <button type="submit" class="btn btn-primary jabchaho-brand">Login</button>   
         </div>
       </div>
       <div class="form-group">        

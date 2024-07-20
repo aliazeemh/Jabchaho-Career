@@ -1,6 +1,6 @@
 <header class="p-3 bg-dark tc-white-imp p-absolute w-100 header-blade ff-gothambook ">
   <div class="container jc-left top-header-container">
-        <a class="navbar-brand" href="{{route('landing.page')}}"><img src="{{asset('assets/images/ideas-logo.png')}}" /></a>
+        <a class="navbar-brand" href="{{route('landing.page')}}"><img src="{{asset('assets/images/jabchaho-logo.svg')}}" /></a>
         <ul class="custom-nav">
             <li class="a-s-center "><a href="#_" class="nav-link f-18px px-2 tc-white-imp">{{Auth::guard('candidate')->user()->full_name}}</a></li>  
             <li class="nav-item dropdownt">

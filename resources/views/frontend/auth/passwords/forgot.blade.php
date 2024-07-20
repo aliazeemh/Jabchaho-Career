@@ -18,7 +18,7 @@
             </div>
             <div class="form-group col form-submit">        
                 
-                <div><button type="submit" class="btn btn-primary ideas-brand">Send</button></div>  
+                <div><button type="submit" class="btn btn-primary jabchaho-brand">Send</button></div>  
                 <div class="already-user">Already have an account! <a href="{{route('signin.show')}}">Signin</a></div>
                 
                 </div>

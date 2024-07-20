@@ -3,7 +3,7 @@
 
         <div class="footer-container">
             <div class="footer-col t-a-center">
-                <h3 class="tc-green"><img class="logo" src="{{asset('assets/images/ideas-logo.png')}}" /></h3>
+                <h3 class="tc-yelllow"><img class="logo" src="{{asset('assets/images/jabchaho-logo.svg')}}" /></h3>
                 <div class="social-wrapper">
                     <span><img class="social-icn" src="{{asset('assets/images/icons/social/fb_icn.png')}}" /></span>
                     <span><img class="social-icn" src="{{asset('assets/images/icons/social/insta_icn.png')}}" /></span>
@@ -11,19 +11,19 @@
                 </div>
             </div>
             <div class="footer-col t-a-center">
-                <h3 class="tc-green">CONTACT US</h3>
+                <h3 class="tc-yelllow">CONTACT US</h3>
                 <div class="social-wrapper">
                     <div>UAN Number: 021-111-143-327</div>
                 </div>
             </div>
             <div class="footer-col t-a-center">
-                <h3 class="tc-green">ADDRESS</h3>
+                <h3 class="tc-yelllow">ADDRESS</h3>
                 <div class="social-wrapper">
                     Plot # 65, Grand Industry, 1, Sector 30 <br />Korangi Industrial Area <br />Karachi City, Sindh, Pakistan
                 </div>
             </div>
         </div>
-        <div class="text-muted"><p class="copyright">Copyright © {{date('Y')}} Ideas Group. All Rights Reserved.</p></div>
+        <div class="text-muted"><p class="copyright">Copyright © {{date('Y')}} Jab Chaho Group. All Rights Reserved.</p></div>
         <div class="ff-gothambook t-a-center">
             @if(!empty($cmsPages))
                 @php $counter=1; @endphp

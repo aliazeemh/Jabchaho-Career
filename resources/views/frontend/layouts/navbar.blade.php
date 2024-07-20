@@ -4,7 +4,7 @@
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
       </button>
-        <a class="navbar-brand" href="{{route('landing.page')}}"><img src="{{asset('assets/images/ideas-logo.png')}}" /></a>
+        <a class="navbar-brand" href="{{route('landing.page')}}"><img src="{{asset('assets/images/jabchaho-logo.svg')}}" /></a>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <div class="nav-pos">
             <ul class="navbar-nav mr-auto">

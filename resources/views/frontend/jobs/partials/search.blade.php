@@ -1,5 +1,5 @@
 <div class="job-search">
-    <h2 class="t-white ff-gothambook">Join Ideas to Achieve A Great Career in Fashion Retail</h2>
+    <h2 class="t-white ff-gothambook">Join <span><img class="logo" src="{{asset('assets/images/jabchaho-logo.svg')}}" /></span> to Achieve A Great Career in Fashion Retail</h2>
     <div class="t-white">Find the perfect job to build your future</div>
     <form method="GET" action="{{ route('jobs.list') }}">
         <div class="row">
@@ -77,5 +77,5 @@
             </div>
         </div>
     </form>
-    <div class="popular-search"><span class="tc-white">Popular Searches: </span><div><span class="tc-green">Digital</span><span class="tc-green"> | </span><span class="tc-green">Textile Designer</span><span class="tc-green"> | </span><span class="tc-green">Developer</span><span class="tc-green"> | </span><span class="tc-green">SEO</span></div></div>
+    <div class="popular-search"><span class="tc-white">Popular Searches: </span><div><span class="tc-yelllow">Digital</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Textile Designer</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Developer</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">SEO</span></div></div>
 </div>

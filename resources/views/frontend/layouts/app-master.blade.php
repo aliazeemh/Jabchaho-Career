@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-    <link type="image/x-icon" href="{{asset('assets/images/job-page-logo.png')}}" rel="icon">
+    <link type="image/x-icon" href="{{asset('assets/images/favicons/favicon-lg.png')}}" rel="icon">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">

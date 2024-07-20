@@ -42,7 +42,7 @@
         </div>
     @endif 
     <!--//Categories Section-->
-    <div class="future-opportunities"><span class="tc-green">FOR FUTURE OPPORTUNITIES </span> <a class="sign-up" href="{{ route('signup.show') }}">SIGN UP</a></div>
+    <div class="future-opportunities"><span class="tc-dark">FOR FUTURE OPPORTUNITIES </span> <a class="sign-up" href="{{ route('signup.show') }}">SIGN UP</a></div>
 
 </div>
 <script type="text/javascript">
@@ -61,7 +61,7 @@
               </div>',
         item: '<div class="col-sm mydivouter"> \
                     <img class="card-img" src="{img}"/>\
-                    <p class="card-text tc-green t-uppercase"><a href="{{route("jobs.list")}}?title=&city=&category={id}&jobType=" class="tc-green t-uppercase job-link" >{name}</a></p> \
+                    <p class="card-text tc-yelllow t-uppercase"><a href="{{route("jobs.list")}}?title=&city=&category={id}&jobType=" class="tc-yelllow t-uppercase job-link" >{name}</a></p> \
                     <p class="card-text">{position}</p>\
              </div>'
         }
