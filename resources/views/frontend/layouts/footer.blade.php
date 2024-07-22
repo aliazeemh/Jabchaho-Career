@@ -8,18 +8,19 @@
                     <span><img class="social-icn" src="{{asset('assets/images/icons/social/fb_icn.png')}}" /></span>
                     <span><img class="social-icn" src="{{asset('assets/images/icons/social/insta_icn.png')}}" /></span>
                     <span><img class="social-icn" src="{{asset('assets/images/icons/social/in_icn.png')}}" /></span>
+                    <span><a href="https://www.youtube.com/@jabchahoofficial"> <img class="social-icn" src="{{asset('assets/images/icons/social/youtube_icn.png')}}" /></a></span>
                 </div>
             </div>
             <div class="footer-col t-a-center">
                 <h3 class="tc-yelllow">CONTACT US</h3>
                 <div class="social-wrapper">
-                    <div>UAN Number: 021-111-143-327</div>
+                    <div>UAN Number: 021-111-524-246</div>
                 </div>
             </div>
             <div class="footer-col t-a-center">
                 <h3 class="tc-yelllow">ADDRESS</h3>
                 <div class="social-wrapper">
-                    Plot # 65, Grand Industry, 1, Sector 30 <br />Korangi Industrial Area <br />Karachi City, Sindh, Pakistan
+                    Korangi Industrial Area <br />Karachi City, Sindh, Pakistan
                 </div>
             </div>
         </div>

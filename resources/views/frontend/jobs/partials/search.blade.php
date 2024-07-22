@@ -1,5 +1,5 @@
 <div class="job-search">
-    <h2 class="t-white ff-gothambook">Join <span><img class="logo" src="{{asset('assets/images/jabchaho-logo.svg')}}" /></span> to Achieve A Great Career in Fashion Retail</h2>
+    <h2 class="t-white ff-gothambook">Join <span><img class="logo" src="{{asset('assets/images/jabchaho-logo.svg')}}" /></span> to Achieve A Great Career in Laundry Services</h2>
     <div class="t-white">Find the perfect job to build your future</div>
     <form method="GET" action="{{ route('jobs.list') }}">
         <div class="row">

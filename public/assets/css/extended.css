@@ -189,7 +189,11 @@ a.pull-right {
 body a:hover:not(.profile-image-remove) {
     color: #FFF !important;
     text-decoration: none;
-    background-color: #fce100 !important;
+    background-color: #fce100;
+}
+
+body .footer-container .footer-col .social-wrapper span a:hover {
+    background: none;
 }
 
 .mydivouter:hover a.mybuttonoverlap+a {
