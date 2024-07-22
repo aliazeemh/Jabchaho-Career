@@ -162,7 +162,7 @@
             </div>
             <div class="col-sm-12">
                 <div class="col-form-label  t-a-center" >
-                    In case, if you are an Jab Chaho employee and wish to refer someone
+                    In case, if you are a Jab Chaho employee and wish to refer someone
                 </div>
             </div>
             <div class="form-group">
