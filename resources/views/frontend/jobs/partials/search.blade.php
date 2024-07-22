@@ -77,5 +77,5 @@
             </div>
         </div>
     </form>
-    <div class="popular-search"><span class="tc-white">Popular Searches: </span><div><span class="tc-yelllow">Digital</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Textile Designer</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Developer</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">SEO</span></div></div>
+    <div class="popular-search"><span class="tc-white">Popular Searches: </span><div><span class="tc-yelllow">Machine Operator</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Ware House Manager</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Packaging</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Riders</span></div></div>
 </div>
