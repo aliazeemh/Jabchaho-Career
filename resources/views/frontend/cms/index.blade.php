@@ -4,7 +4,7 @@
 @section('meta_description', Arr::get($cmsDetail,'meta_description'))
 @section('content')
 
-<h3>{{Arr::get($cmsDetail,'title')}}<h3>
+<h3>{{Arr::get($cmsDetail,'title')}}</h3>
 
 <div class="content">
     {!! Arr::get($cmsDetail,'content') !!}
