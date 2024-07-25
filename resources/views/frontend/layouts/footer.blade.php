@@ -5,9 +5,9 @@
             <div class="footer-col t-a-center">
                 <h3 class="tc-yelllow"><img class="logo" src="{{asset('assets/images/jabchaho-logo.svg')}}" /></h3>
                 <div class="social-wrapper">
-                    <span><img class="social-icn" src="{{asset('assets/images/icons/social/fb_icn.png')}}" /></span>
-                    <span><img class="social-icn" src="{{asset('assets/images/icons/social/insta_icn.png')}}" /></span>
-                    <span><img class="social-icn" src="{{asset('assets/images/icons/social/in_icn.png')}}" /></span>
+                    <span><a href="#"><img class="social-icn" src="{{asset('assets/images/icons/social/fb_icn.png')}}" /></a></span>
+                    <span><a href="#"><img class="social-icn" src="{{asset('assets/images/icons/social/insta_icn.png')}}" /></a></span>
+                    <span><a href="#"><img class="social-icn" src="{{asset('assets/images/icons/social/in_icn.png')}}" /></a></span>
                     <span><a href="https://www.youtube.com/@jabchahoofficial"> <img class="social-icn" src="{{asset('assets/images/icons/social/youtube_icn.png')}}" /></a></span>
                 </div>
             </div>

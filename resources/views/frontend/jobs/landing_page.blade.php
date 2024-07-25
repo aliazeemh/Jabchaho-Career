@@ -1,6 +1,7 @@
 @extends('frontend.layouts.auth-master')
 @section('title', 'Home')
 @section('content')
+
 <script>
     var positionConf = {};
     var imgConf = {};
@@ -59,9 +60,9 @@
                     {template} \
                 </div>\
               </div>',
-        item: '<div class="col-sm mydivouter"> \
-                    <img class="card-img" src="{img}"/>\
-                    <p class="card-text tc-yelllow t-uppercase"><a href="{{route("jobs.list")}}?title=&city=&category={id}&jobType=" class="tc-yelllow t-uppercase job-link" >{name}</a></p> \
+        item: '<div class="col-sm mydivouter open-job-innner-card"> \
+                    <div class="card-img-box"><img class="card-img" src="{img}"/></div>\
+                    <p class="card-text tc-yelllow"><a href="{{route("jobs.list")}}?title=&city=&category={id}&jobType=" class="text-dark job-link job-title" >{name}</a></p> \
                     <p class="card-text">{position}</p>\
              </div>'
         }

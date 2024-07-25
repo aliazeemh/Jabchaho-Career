@@ -63,7 +63,7 @@ body>main.container>div.container-auth {
     width: 100%;
     max-width: 100%;
     margin: 0 !important;
-    background-image: url(../uploads/background/officeBg.jpg);
+    background-image: url(../images/banners/header-auth-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1399,4 +1399,45 @@ body.drop-your-cv form.form-horizontal .form-group.upload-resume {
 
 body.drop-your-cv form.form-horizontal .show-drop-your-cv {
     font-size: 16px;
+}
+
+/* Saad CSS */
+
+body header.bg-dark.header-blade .navbar-nav>li a {
+    font-weight: 800;
+    color: #fff;
+}
+
+body header.bg-dark.header-blade .navbar-nav>li a:hover {
+    color: #fce100 !important;
+}
+
+.open-job-innner-card .job-title {
+    font-size: 20px;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.open-job-innner-card .card-text {
+    margin-bottom: 0;
+}
+
+.open-job-innner-card .job-title:hover {
+    background: none;
+    color: #fce100 !IMPORTANT;
+}
+
+.open-job-innner-card {
+    margin-bottom: 60px;
+}
+
+.open-job-innner-card .card-img-box {
+    background: #fce100;
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    margin: 0 auto 15px;
+    display: flex;
+    align-items: center;
 }
