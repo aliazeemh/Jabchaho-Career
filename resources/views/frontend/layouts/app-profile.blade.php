@@ -13,7 +13,7 @@
 <style>
 
 body {
-    background: #e9eaee !important;
+    /* background: #e9eaee !important; */
     font: normal 12px 'LucidaGrande' !important;
 }
 body header.bg-dark.header-blade{

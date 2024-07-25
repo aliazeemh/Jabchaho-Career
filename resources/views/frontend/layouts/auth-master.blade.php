@@ -25,7 +25,7 @@ html, body {
   min-height: 100%;
 }
 body {
-    background: #e9eaee;
+    /* background: #e9eaee; */
     font: normal 11px 'LucidaGrande';
 }
 body {

@@ -17,7 +17,7 @@
               <li class="nav-item"><a href="{{ route('candidate.refer') }}" class="nav-link px-2 f-14px">Refer a candidate</a></li>
             </ul>
             
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav mr-auto align-items-center">
               @if(!Auth::guard('candidate')->user())
                 <li class="nav-item"><a href="{{ route('signin.show') }}" class="nav-link px-2 f-14px">LOGIN</a></li>
                 <span class="mobile-hide"> | </span>  

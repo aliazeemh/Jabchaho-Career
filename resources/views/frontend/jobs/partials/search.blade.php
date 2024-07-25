@@ -77,5 +77,5 @@
             </div>
         </div>
     </form>
-    <div class="popular-search"><span class="tc-white">Popular Searches: </span><div><span class="tc-yelllow">Machine Operator</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Ware House Manager</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Packaging</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Riders</span></div></div>
+    <div class="popular-search"><span class="tc-white">Popular Searches: </span><div><span class="tc-yelllow">Machine Operator</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Ware House Manager</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Packaging</span><span class="tc-yelllow"> | </span><span class="tc-yelllow">Riders</span> <span class="tc-yelllow"> | </span><span class="tc-yelllow">QC</span></div></div>
 </div>
